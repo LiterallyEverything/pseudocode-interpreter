@@ -1,7 +1,7 @@
 import pci
 inter = pci.interpreter()
 
-with open("prog.pseu", "r") as program:
+with open("prog.pseudo", "r") as program:
     code = program.read()
     if code:
         inter.initRun(code)

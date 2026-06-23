@@ -1,2 +1,2 @@
-maxRecur = 69
+maxRecur = 100
 arrowReplace = True
